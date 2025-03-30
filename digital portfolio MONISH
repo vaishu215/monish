@@ -1,5 +1,5 @@
 Style.js
-var name="vaishnavi S";
+var name="MONISH S";
 const dob="09.11.2005"
 console.log(first_name,last-name);
 new.html
@@ -27,7 +27,7 @@ Index.html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VAISHNAVI S Digital Portfolio</title>
+    <title>MONISH S Digital Portfolio</title>
     <link rel="stylesheet" href="script.css">
     <LINK:favicon></LINK:favicon>
     </head>
@@ -37,7 +37,7 @@ Index.html
     
     <div class="header-content">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwo5cJhu36dJfwZsQD-y_J8YFRgH57-l-A1VB6zE1UlCduR9Gjc-m4COd5qxcSeEtHWWo&usqp=CAU" alt="My pic" class="profile-picture">
-        <h1>VAISHNAVI S</h1>
+        <h1>MONISH S</h1>
     </div>
     
 </header>
@@ -53,7 +53,7 @@ Index.html
 </nav>    
 <section id="about">
     <div class="section-content">
-        <h2>About VAISHNAVI S</h2>
+        <h2>About MONISH S</h2>
         <p style="text-align: justify;">
             VAISHNAVI S, DEPARTMENT OF COMPUTER SCIENCE ,Dr.R.V Arts and Science college.
         </p>
